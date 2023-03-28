@@ -5,4 +5,4 @@
 
 [komentorivi.txt](https://github.com/VilhoHeikkinen/ot-harjoitustyo/blob/master/laskarit/viikko1/komentorivi.txt)
 
-testi
+[vaatimusmäärittely](https://github.com/VilhoHeikkinen/ot-harjoitustyo/blob/master/dokumentaatio/vaatimusmaarittely.md)
