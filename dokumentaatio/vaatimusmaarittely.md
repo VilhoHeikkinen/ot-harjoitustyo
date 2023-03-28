@@ -34,3 +34,4 @@ Perusversion jälkeen järjestelmää voitaisiin kehittää esim. seuraavilla om
 - Ruudukon koon sekä pommien määrän voi päättää itse
 - Tilastoja voi tarkastella nimimerkin perusteella
 - Peli antaa vinkkejä pelaajalle (miinaharavaan liittyy myös paljon muistisääntöjä, joista voisi kertoa)
+- Peliä voisi pelata myös muilla muodoilla (esim. kolmioilla), jos logiikka sen sallii
